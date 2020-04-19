@@ -4,7 +4,7 @@
   "description": "",
   "main": "node index.js",
   "scripts": {
-    "test": "node ."
+    "test": "node index.js"
   },
   "author": "Moon",
   "license": "ISC",
