@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-const { prefix, token } = require("./config.json")
+const { prefix } = require("./config.json")
 usedCommandRecently4 = new Set();
 
 client.on('ready', () => {
