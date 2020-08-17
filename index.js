@@ -24,8 +24,7 @@ client.on('message', (receivedMessage) => {
     switch(args[0]) {
       case 'alt':
         if(stock > 0 ) {
-	var string = `oliver.goldie6@gmail.com:Ollie1997
-aochoa1968@verizon.net:5handguns`
+	var string = ``
 
         var words = string.split('\n');
         let random = words[Math.floor(Math.random()*words.length)];
