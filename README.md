@@ -1,2 +1,4 @@
 # Utils-Bot
-Discord bot by Moonz#0001
+
+# InfoR
+Im so smart :/
